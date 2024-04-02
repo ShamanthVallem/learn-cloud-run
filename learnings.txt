@@ -1,0 +1,2 @@
+Command to build docker image: docker build -t <image-name>
+Command to run a docker image in a container: docker run -p <port> <image-name>
